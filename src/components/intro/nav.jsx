@@ -1,6 +1,6 @@
 import { useRef, useState } from 'react';
 import '../intro/nav.css'; // Make sure this path is correct
-import ReactLogo from "../../assets/logo/logo-color.svg"; // Ensure the logo path is correct
+import ReactLogo from "../../assets/logo/jash_logo.svg.svg"; // Ensure the logo path is correct
 
 const Navbar = () => {
   const navRef = useRef();
